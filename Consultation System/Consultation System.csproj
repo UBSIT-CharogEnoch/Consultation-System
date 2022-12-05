@@ -66,7 +66,9 @@
     <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
     </Reference>
-    <Reference Include="System" />
+    <Reference Include="System">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -101,6 +103,11 @@
     </Compile>
     <Compile Include="adminReportAccounts.Designer.cs">
       <DependentUpon>adminReportAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultRequest.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ConsultRequest.xsd</DependentUpon>
     </Compile>
     <Compile Include="SqlServerTypes\Loader.cs" />
     <Compile Include="tutorHome.cs">
@@ -161,6 +168,17 @@
     </None>
     <None Include="AccountsDataSet.xss">
       <DependentUpon>AccountsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ConsultRequest.xsc">
+      <DependentUpon>ConsultRequest.xsd</DependentUpon>
+    </None>
+    <None Include="ConsultRequest.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ConsultRequest.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ConsultRequest.xss">
+      <DependentUpon>ConsultRequest.xsd</DependentUpon>
     </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">

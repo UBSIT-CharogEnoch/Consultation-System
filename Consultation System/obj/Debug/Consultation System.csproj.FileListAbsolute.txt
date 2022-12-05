@@ -1,0 +1,53 @@
+O:\School\Consultation System\Consultation System\obj\Debug\Consultation System.csproj.AssemblyReference.cache
+O:\School\Consultation System\Consultation System\obj\Debug\Consultation System.csproj.SuggestedBindingRedirects.cache
+O:\School\Consultation System\Consultation System\obj\Debug\Consultation_System.Login.resources
+O:\School\Consultation System\Consultation System\obj\Debug\Consultation_System.Properties.Resources.resources
+O:\School\Consultation System\Consultation System\obj\Debug\Consultation System.csproj.GenerateResource.cache
+O:\School\Consultation System\Consultation System\obj\Debug\Consultation System.csproj.CoreCompileInputs.cache
+O:\School\Consultation System\Consultation System\bin\Debug\Consultation System.exe.config
+O:\School\Consultation System\Consultation System\bin\Debug\Consultation System.exe
+O:\School\Consultation System\Consultation System\bin\Debug\Consultation System.pdb
+O:\School\Consultation System\Consultation System\obj\Debug\Consultation System.exe
+O:\School\Consultation System\Consultation System\obj\Debug\Consultation System.pdb
+O:\School\Consultation System\Consultation System\obj\Debug\Consultation_System.adminHome.resources
+O:\School\Consultation System\Consultation System\obj\Debug\Consultation_System.tuteeHome.resources
+O:\School\Consultation System\Consultation System\obj\Debug\Consultation_System.tutorHome.resources
+O:\School\Consultation System\Consultation System\obj\Debug\Consultation_System.adminAccounts.resources
+O:\School\Consultation System\Consultation System\bin\Debug\consys.mdf
+O:\School\Consultation System\Consultation System\bin\Debug\consys_log.ldf
+O:\School\Consultation System\Consultation System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+O:\School\Consultation System\Consultation System\bin\Debug\Microsoft.ReportViewer.Common.dll
+O:\School\Consultation System\Consultation System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+O:\School\Consultation System\Consultation System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+O:\School\Consultation System\Consultation System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+O:\School\Consultation System\Consultation System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+O:\School\Consultation System\Consultation System\obj\Debug\Consultation_System.adminReportAccounts.resources
+O:\School\Consultation System\Consultation System\obj\Debug\Consultation System.csproj.CopyComplete

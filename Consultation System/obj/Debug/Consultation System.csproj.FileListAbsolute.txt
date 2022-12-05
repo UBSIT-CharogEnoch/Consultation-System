@@ -51,3 +51,16 @@ O:\School\Consultation System\Consultation System\bin\Debug\zh-CHS\Microsoft.Rep
 O:\School\Consultation System\Consultation System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
 O:\School\Consultation System\Consultation System\obj\Debug\Consultation_System.adminReportAccounts.resources
 O:\School\Consultation System\Consultation System\obj\Debug\Consultation System.csproj.CopyComplete
+O:\School\Consultation-System\Consultation System\obj\Debug\Consultation System.csproj.AssemblyReference.cache
+O:\School\Consultation-System\Consultation System\obj\Debug\Consultation System.csproj.SuggestedBindingRedirects.cache
+O:\School\Consultation-System\Consultation System\obj\Debug\Consultation_System.adminAccounts.resources
+O:\School\Consultation-System\Consultation System\obj\Debug\Consultation_System.adminHome.resources
+O:\School\Consultation-System\Consultation System\obj\Debug\Consultation_System.adminReportAccounts.resources
+O:\School\Consultation-System\Consultation System\obj\Debug\Consultation_System.Login.resources
+O:\School\Consultation-System\Consultation System\obj\Debug\Consultation_System.Properties.Resources.resources
+O:\School\Consultation-System\Consultation System\obj\Debug\Consultation_System.tuteeHome.resources
+O:\School\Consultation-System\Consultation System\obj\Debug\Consultation_System.tutorHome.resources
+O:\School\Consultation-System\Consultation System\obj\Debug\Consultation System.csproj.GenerateResource.cache
+O:\School\Consultation-System\Consultation System\obj\Debug\Consultation System.csproj.CoreCompileInputs.cache
+O:\School\Consultation-System\Consultation System\obj\Debug\Consultation System.exe
+O:\School\Consultation-System\Consultation System\obj\Debug\Consultation System.pdb
